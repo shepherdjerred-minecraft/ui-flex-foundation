@@ -1,0 +1,24 @@
+.sidebar {
+	background-color: #fff;
+	padding: 0px;
+	border-radius: 6px;
+	margin-bottom: 20px;
+
+	.header {
+		padding: 10px;
+		color: #777777;
+		background-color: #F1F1EC;
+		border: 1px solid #d5d5d5;
+		border-top-left-radius: 6px;
+		border-top-right-radius: 6px;
+
+		h3 {
+			font-size: 14px;
+		}
+	}
+
+	.body {
+		padding: 10px;
+		font-size: 11px;
+	}
+}

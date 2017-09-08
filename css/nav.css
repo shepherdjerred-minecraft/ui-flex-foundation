@@ -1,0 +1,49 @@
+.userBar {
+  background-color: #141414;
+  height: 36px; }
+  .userBar a {
+    color: #A8A8A8;
+    font-weight: bold;
+    font-size: 12px; }
+
+.logoBlock {
+  background-color: #2B2B2B;
+  height: 110px;
+  position: relative;
+  z-index: 0; }
+  .logoBlock img {
+    position: relative;
+    z-index: 5; }
+
+.navBar {
+  background-color: #2B2B2B;
+  height: 35px; }
+  .navBar a {
+    color: #BCBCBC;
+    font-weight: 700;
+    font-size: 14px;
+    text-shadow: rgba(0, 0, 0, 0.65098) 0px 1px 0px; }
+    .navBar a i {
+      position: relative;
+      top: -5px; }
+  .navBar a:hover {
+    color: #fff; }
+  .navBar li {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    position: relative;
+    z-index: 10; }
+  .navBar li:hover {
+    background-color: #D64541; }
+  .navBar .active {
+    background-color: #CA302B; }
+    .navBar .active a {
+      background-color: transparent; }
+
+.subNav {
+  background-color: #CA302B;
+  height: 37px;
+  margin-bottom: 20px; }
+  .subNav a {
+    color: #fff;
+    font-size: 11px; }

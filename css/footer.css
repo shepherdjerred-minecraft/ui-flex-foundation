@@ -1,0 +1,41 @@
+footer {
+  background-color: #1B1B1B;
+  color: #fff; }
+  footer a {
+    color: #fff; }
+    footer a:hover {
+      color: #fff; }
+  footer .upper {
+    background-color: #202020;
+    border-top: solid 5px #6CB2E4;
+    border-bottom: solid 1px #2B2B2B;
+    font-size: 13px; }
+    footer .upper a {
+      vertical-align: middle;
+      line-height: 25px;
+      color: #a5cae4;
+      padding-left: 5px;
+      padding-right: 5px;
+      height: 50px; }
+      footer .upper a:hover {
+        text-decoration: underline;
+        color: #2096e1; }
+  footer .copyright {
+    background-color: #1B1B1B;
+    padding: 15px 5px;
+    color: #fff;
+    font-size: 11px; }
+    footer .copyright a {
+      color: #1061B3; }
+      footer .copyright a:hover {
+        text-decoration: underline; }
+    footer .copyright i {
+      font-size: 24px;
+      border-radius: 4px;
+      padding: 10px;
+      box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.2);
+      color: #fff; }
+      footer .copyright i.fa-twitter {
+        background-color: #44CCF6; }
+      footer .copyright i.fa-envelope {
+        background-color: #3A845A; }
